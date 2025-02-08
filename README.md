@@ -8,8 +8,7 @@ I'm a passionate software developer from Kosovo with a strong focus on **.NET** 
 - 👯 I’m looking to collaborate on **.NET** and **Angular** projects, especially in web development and open-source.
 - 💬 Ask me about **.NET**, **Angular**, **PHP**, **JavaScript**, and building scalable web applications.
 - 📫 How to reach me: [altin-pajaziti@outlook.com](mailto:altin-pajaziti@outlook.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an avid chess player and love solving puzzles!
+
 
 ## Connect with Me:
 
@@ -25,8 +24,6 @@ I'm a passionate software developer from Kosovo with a strong focus on **.NET** 
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 
-## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AltinPajaziti&layout=compact&theme=radical)
 
 
