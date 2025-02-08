@@ -2,68 +2,31 @@
 
 ## About Me
 
-I'm a passionate software developer from Kosovo with a strong focus on **.NET** and **Angular**. I have experience in building full-stack web applications, and I am always eager to explore new technologies. Currently, I'm honing my skills in **Angular** and **.NET Core**, and I'm keen to work on challenging projects that help me grow as a developer.
+I'm a passionate software developer from Kosovo with a strong focus on **.NET** and **Angular**. I specialize in building full-stack web applications and love exploring new technologies. Currently, I'm honing my skills in **Angular** and **.NET Core**, aiming to take on challenging projects that enhance my growth as a developer.
 
 - 🌱 I’m currently learning advanced **Angular** techniques and deepening my understanding of **.NET Core**.
-- 👯 I’m looking to collaborate on **.NET** and **Angular** projects, particularly in the web development and open-source spaces.
+- 👯 I’m looking to collaborate on **.NET** and **Angular** projects, especially in web development and open-source.
 - 💬 Ask me about **.NET**, **Angular**, **PHP**, **JavaScript**, and building scalable web applications.
-- 📫 How to reach me: altin-pajaziti@outlook.com
+- 📫 How to reach me: [altin-pajaziti@outlook.com](mailto:altin-pajaziti@outlook.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an avid chess player and love solving puzzles!
 
-## Skills
-
-### Front-end
-
-- **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **Angular**
-
-### Back-end
-
-- **PHP**, **C#**, **.NET Core**
-
-### Databases
-
-- **SQL**, **MySQL**
-
-### Tools
-
-- **Git**, **Entity Framework**, 
-
-## GitHub Stats
-
-![AltinPajaziti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AltinPajaziti&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AltinPajaziti&layout=compact&theme=radical)
-
-## Projects
-
-Here are a few projects I've worked on:
-
-- [Job Portal](https://github.com/AltinPajaziti/job-portal): A job portal application for job seekers and companies. Built with **PHP**, **MySQL**, **HTML**, **CSS**, and **JavaScript**.
-- [Advanced Tech Store Platform](https://github.com/AltinPajaziti/advanced-tech-store): An e-commerce platform built with **Vue.js**, **Bootstrap**, **PHP**, and **MySQL**.
-- [More Projects on My GitHub](https://github.com/AltinPajaziti)
-
-## Experience
-
-### Software Developer Intern – **Inspired Tech** (2024/07 – 2024/11)
-
-- Developed full-stack web applications using **Angular** and **.NET Core**.
-- Created and optimized **RESTful APIs** and reusable **Angular** components.
-- Integrated essential features such as user authentication, role management, and real-time notifications.
-- Utilized **Entity Framework** for efficient database operations.
-- Implemented security best practices and delivered high-performance, scalable solutions in collaboration with cross-functional teams.
-
-## Education
-
-- **PCAP – Certified Associate Python Programmer** from Cisco Systems
-- **Full-Stack Development Course** at PerProgramera
-
-## Connect with Me
+## Connect with Me:
 
 - [LinkedIn](https://www.linkedin.com/in/altinpajaziti/)
 - [Twitter](https://twitter.com/AltinPajaziti)
 - [Personal Website](https://altinpajaziti.netlify.app/)
 
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate or discuss exciting new projects. 
+## Languages and Tools:
+
+- **Frontend**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+- **Backend**: ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/-NET-512BD4?style=flat&logo=.net&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+- **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AltinPajaziti&layout=compact&theme=radical)
+
+
