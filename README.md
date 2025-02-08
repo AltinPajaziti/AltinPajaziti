@@ -27,7 +27,7 @@ I'm a passionate software developer from Kosovo with a strong focus on **.NET** 
 
 ### Tools
 
-- **Git**, **Entity Framework**, **Docker**, **Kubernetes**, **Jenkins**
+- **Git**, **Entity Framework**, 
 
 ## GitHub Stats
 
@@ -64,6 +64,6 @@ Here are a few projects I've worked on:
 
 - [LinkedIn](https://www.linkedin.com/in/altinpajaziti/)
 - [Twitter](https://twitter.com/AltinPajaziti)
-- [Personal Website](https://altinpajaziti.com)
+- [Personal Website](https://altinpajaziti.netlify.app/)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate or discuss exciting new projects. 
