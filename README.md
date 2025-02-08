@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate software developer from Kosovo with a strong focus on **.NET** and **Angular**. I specialize in building full-stack web applications and love exploring new technologies. Currently, I'm honing my skills in **Angular** and **.NET Core**, aiming to take on challenging projects that enhance my growth as a developer.
+I'm a passionate software developer with a strong focus on **.NET** and **Angular**. I specialize in building full-stack web applications and love exploring new technologies. Currently, I'm honing my skills in **Angular** and **.NET Core**, aiming to take on challenging projects that enhance my growth as a developer.
 
 - 🌱 I’m currently learning advanced **Angular** techniques and deepening my understanding of **.NET Core**.
 - 👯 I’m looking to collaborate on **.NET** and **Angular** projects, especially in web development and open-source.
