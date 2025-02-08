@@ -12,8 +12,7 @@ I'm a passionate software developer from Kosovo with a strong focus on **.NET** 
 
 ## Connect with Me:
 
-- [LinkedIn](https://www.linkedin.com/in/altinpajaziti/)
-- [Twitter](https://twitter.com/AltinPajaziti)
+- [LinkedIn](https://www.linkedin.com/in/altin-pajaziti-843138181/)
 - [Personal Website](https://altinpajaziti.netlify.app/)
 
 ## Languages and Tools:
@@ -21,7 +20,11 @@ I'm a passionate software developer from Kosovo with a strong focus on **.NET** 
 - **Frontend**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 - **Backend**: ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/-NET-512BD4?style=flat&logo=.net&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 - **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+- **Tools**: 
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) 
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white) 
+  ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 
 
 
