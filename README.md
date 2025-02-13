@@ -13,7 +13,6 @@ I'm a passionate software developer with a strong focus on **.NET** and **Angula
 ## Connect with Me:
 
 - [LinkedIn](https://www.linkedin.com/in/altin-pajaziti-843138181/)
-- [Personal Website](https://altinpajaziti.netlify.app/)
 
 ## Languages and Tools:
 
