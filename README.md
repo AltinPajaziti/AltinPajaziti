@@ -13,7 +13,7 @@ I'm a passionate software developer with a strong focus on **.NET** and **Angula
 ## Connect with Me:
 
 - [LinkedIn](https://www.linkedin.com/in/altin-pajaziti-843138181/)
-
+- [Email](mailto:altin-pajaziti@outlook.com)
 ## Languages and Tools:
 
 - **Frontend**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
