@@ -1,6 +1,6 @@
 # Hi there, I'm Altin Pajaziti 👋
 
-## About Me
+##  About Me
 
 I'm a passionate software developer with a strong focus on **.NET** and **Angular**. I specialize in building full-stack web applications and love exploring new technologies. Currently, I'm honing my skills in **Angular** and **.NET Core**, aiming to take on challenging projects that enhance my growth as a developer.
 
